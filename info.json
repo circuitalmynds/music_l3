@@ -1,5 +1,132 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "b2U0Wr6Si4M",
+            "name": "Skiffle City Ramblers - Dr. Jazz-b2U0Wr6Si4M.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Skiffle City Ramblers - Dr. Jazz-b2U0Wr6Si4M.mp4",
+            "size": 5.836645,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Skiffle City Ramblers - Dr. Jazz-b2U0Wr6Si4M.mp4?raw=true"
+        },
+        {
+            "id": "LT-I48dxJwY",
+            "name": "Hoping That Someday You'd Care-LT-I48dxJwY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Hoping That Someday You'd Care-LT-I48dxJwY.mp4",
+            "size": 4.069763,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Hoping That Someday You'd Care-LT-I48dxJwY.mp4?raw=true"
+        },
+        {
+            "id": "8DWJscv8u4c",
+            "name": "Sappho von Mitilene Suite, Op. 68 - VI. Marcia con moto-8DWJscv8u4c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Sappho von Mitilene Suite, Op. 68 - VI. Marcia con moto-8DWJscv8u4c.mp4",
+            "size": 4.642907999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Sappho von Mitilene Suite, Op. 68 - VI. Marcia con moto-8DWJscv8u4c.mp4?raw=true"
+        },
+        {
+            "id": "60EOjHEzQpE",
+            "name": "Cuentos de Espa\u00f1a - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Cuentos de Espa\u00f1a - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4",
+            "size": 3.38141,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Cuentos de Espa\u00f1a - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4?raw=true"
+        },
+        {
+            "id": "rThRRa9gayc",
+            "name": "Mompou plays Mompou - Variations on a Theme of Chopin-rThRRa9gayc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Mompou plays Mompou - Variations on a Theme of Chopin-rThRRa9gayc.mp4",
+            "size": 28.844444,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mompou plays Mompou - Variations on a Theme of Chopin-rThRRa9gayc.mp4?raw=true"
+        },
+        {
+            "id": "yfqz0twefHw",
+            "name": "Slap That Bass (From 'Shall We Dance')-yfqz0twefHw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Slap That Bass (From 'Shall We Dance')-yfqz0twefHw.mp4",
+            "size": 4.299334,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Slap That Bass (From 'Shall We Dance')-yfqz0twefHw.mp4?raw=true"
+        },
+        {
+            "id": "VDwzGt3b3BM",
+            "name": "Bride and Groom-VDwzGt3b3BM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Bride and Groom-VDwzGt3b3BM.mp4",
+            "size": 3.0778499999999998,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Bride and Groom-VDwzGt3b3BM.mp4?raw=true"
+        },
+        {
+            "id": "OGWW-anKCqI",
+            "name": "Liszt - Kling leise, mein Lied S.301-OGWW-anKCqI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liszt - Kling leise, mein Lied S.301-OGWW-anKCqI.mp4",
+            "size": 2.759963,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Kling leise, mein Lied S.301-OGWW-anKCqI.mp4?raw=true"
+        },
+        {
+            "id": "6OpnRuooGfw",
+            "name": "La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4",
+            "size": 10.441123,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4?raw=true"
+        },
+        {
+            "id": "XsFHEOpVPV8",
+            "name": "Siempre En Mi Coraz\u00f3n (Remastered)-XsFHEOpVPV8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Siempre En Mi Coraz\u00f3n (Remastered)-XsFHEOpVPV8.mp4",
+            "size": 3.5507039999999996,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Siempre En Mi Coraz\u00f3n (Remastered)-XsFHEOpVPV8.mp4?raw=true"
+        },
+        {
+            "id": "SvHHaLAd6Zw",
+            "name": "Liszt, Wagner - Spinning Song From Der fliegende Holl\u00e4nder, S.440-SvHHaLAd6Zw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liszt, Wagner - Spinning Song From Der fliegende Holl\u00e4nder, S.440-SvHHaLAd6Zw.mp4",
+            "size": 3.856623,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt, Wagner - Spinning Song From Der fliegende Holl\u00e4nder, S.440-SvHHaLAd6Zw.mp4?raw=true"
+        },
+        {
+            "id": "FkW96VGB1eM",
+            "name": "Twelve Waltzes and Coda - No. 10-FkW96VGB1eM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Twelve Waltzes and Coda - No. 10-FkW96VGB1eM.mp4",
+            "size": 0.647681,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Twelve Waltzes and Coda - No. 10-FkW96VGB1eM.mp4?raw=true"
+        },
+        {
+            "id": "S-KKSLAEZ48",
+            "name": "Liszt - Via Crucis - Station IV - Jesus begegnet seiner Heiligen Mutter-S-KKSLAEZ48.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liszt - Via Crucis - Station IV - Jesus begegnet seiner Heiligen Mutter-S-KKSLAEZ48.mp4",
+            "size": 1.815853,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Via Crucis - Station IV - Jesus begegnet seiner Heiligen Mutter-S-KKSLAEZ48.mp4?raw=true"
+        },
+        {
+            "id": "5ikF2UCjMKU",
+            "name": "Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4",
+            "size": 0.44095599999999996,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4?raw=true"
+        },
+        {
+            "id": "xsQyCTSEOUw",
+            "name": "Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4",
+            "size": 1.95766,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4?raw=true"
+        },
+        {
+            "id": "dZkUkNq-eRU",
+            "name": "Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4",
+            "size": 4.774297,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4?raw=true"
+        },
+        {
+            "id": "ZE2Fmdx9pUQ",
+            "name": "Liszt - Liebestr\u00e4ume, S. 541 - No. 1 in A-Flat Major 'Hohe Liebe'-ZE2Fmdx9pUQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/Liszt - Liebestr\u00e4ume, S. 541 - No. 1 in A-Flat Major 'Hohe Liebe'-ZE2Fmdx9pUQ.mp4",
+            "size": 4.063397999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Liebestr\u00e4ume, S. 541 - No. 1 in A-Flat Major 'Hohe Liebe'-ZE2Fmdx9pUQ.mp4?raw=true"
+        },
+        {
+            "id": "ZyVurQY8Ab0",
+            "name": "The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/l3/videos/The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
+            "size": 13.210564,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4?raw=true"
+        }
+    ],
+    "total_size": 101.671176
 }
