@@ -2,6 +2,27 @@
     "available_space": true,
     "content": [
         {
+            "id": "3D0XW35a4Hk",
+            "name": "Let's Call The Whole Thing Off [3D0XW35a4Hk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Let's Call The Whole Thing Off [3D0XW35a4Hk].mp4",
+            "size": 15.337318,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Let's Call The Whole Thing Off [3D0XW35a4Hk].mp4?raw=true"
+        },
+        {
+            "id": "j4dYKvIcbwE",
+            "name": "Al Mundo Le Falta un Tornillo [j4dYKvIcbwE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Al Mundo Le Falta un Tornillo [j4dYKvIcbwE].mp4",
+            "size": 5.280285,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Al Mundo Le Falta un Tornillo [j4dYKvIcbwE].mp4?raw=true"
+        },
+        {
+            "id": "YpU_0Z0c6DU",
+            "name": "Glass no Sougen [YpU_0Z0c6DU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Glass no Sougen [YpU_0Z0c6DU].mp4",
+            "size": 10.950911,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Glass no Sougen [YpU_0Z0c6DU].mp4?raw=true"
+        },
+        {
             "id": "xsQyCTSEOUw",
             "name": "Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4",
@@ -9,11 +30,32 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liza (All The Clouds'll Roll Away)-xsQyCTSEOUw.mp4?raw=true"
         },
         {
+            "id": "rzAF9rTeUAM",
+            "name": "Be Careful, It´s My Heart (Remastered) [rzAF9rTeUAM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Be Careful, It´s My Heart (Remastered) [rzAF9rTeUAM].mp4",
+            "size": 3.954986,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Be Careful, It´s My Heart (Remastered) [rzAF9rTeUAM].mp4?raw=true"
+        },
+        {
+            "id": "wjmbpWFpMIo",
+            "name": "Liszt： Piano Concerto No. 1 in E Flat Major, S. 124 - III. Allegro marziale animato [wjmbpWFpMIo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liszt： Piano Concerto No. 1 in E Flat Major, S. 124 - III. Allegro marziale animato [wjmbpWFpMIo].mp4",
+            "size": 9.178412,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt： Piano Concerto No. 1 in E Flat Major, S. 124 - III. Allegro marziale animato [wjmbpWFpMIo].mp4?raw=true"
+        },
+        {
             "id": "60EOjHEzQpE",
             "name": "Cuentos de España - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Cuentos de España - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4",
             "size": 3.38141,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Cuentos de España - No. 3, Miramar, Valencia-60EOjHEzQpE.mp4?raw=true"
+        },
+        {
+            "id": "jqQznao1YXA",
+            "name": "Poolside - Shakedown Street [jqQznao1YXA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Poolside - Shakedown Street [jqQznao1YXA].mp4",
+            "size": 9.389541999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Poolside - Shakedown Street [jqQznao1YXA].mp4?raw=true"
         },
         {
             "id": "FkW96VGB1eM",
@@ -30,6 +72,20 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mompou plays Mompou - Variations on a Theme of Chopin-rThRRa9gayc.mp4?raw=true"
         },
         {
+            "id": "qfD2xBEpwaw",
+            "name": "Es tan difícil [qfD2xBEpwaw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Es tan difícil [qfD2xBEpwaw].mp4",
+            "size": 4.79396,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Es tan difícil [qfD2xBEpwaw].mp4?raw=true"
+        },
+        {
+            "id": "jcQbsedtvH4",
+            "name": "Everyone's Wrong But Me [jcQbsedtvH4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Everyone's Wrong But Me [jcQbsedtvH4].mp4",
+            "size": 8.836699,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Everyone's Wrong But Me [jcQbsedtvH4].mp4?raw=true"
+        },
+        {
             "id": "XsFHEOpVPV8",
             "name": "Siempre En Mi Corazón (Remastered)-XsFHEOpVPV8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Siempre En Mi Corazón (Remastered)-XsFHEOpVPV8.mp4",
@@ -44,11 +100,60 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Liebesträume, S. 541 - No. 1 in A-Flat Major 'Hohe Liebe'-ZE2Fmdx9pUQ.mp4?raw=true"
         },
         {
+            "id": "iKr9wZpjBqE",
+            "name": "Hues Corporation - Rock The Boat • TopPop [iKr9wZpjBqE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Hues Corporation - Rock The Boat • TopPop [iKr9wZpjBqE].mp4",
+            "size": 12.746799999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Hues Corporation - Rock The Boat • TopPop [iKr9wZpjBqE].mp4?raw=true"
+        },
+        {
+            "id": "dZkUkNq-eRU",
+            "name": "Liszt： Hungarian Coronation Mass, S.11 - 2. Gloria [dZkUkNq-eRU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liszt： Hungarian Coronation Mass, S.11 - 2. Gloria [dZkUkNq-eRU].mp4",
+            "size": 16.667642999999998,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt： Hungarian Coronation Mass, S.11 - 2. Gloria [dZkUkNq-eRU].mp4?raw=true"
+        },
+        {
+            "id": "eDw7QxWBw8M",
+            "name": "Subsistencia - La Papa Liberada [eDw7QxWBw8M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Subsistencia - La Papa Liberada [eDw7QxWBw8M].mp4",
+            "size": 11.994321,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Subsistencia - La Papa Liberada [eDw7QxWBw8M].mp4?raw=true"
+        },
+        {
+            "id": "DCFsDa7cr7w",
+            "name": "Wolfgang Amadeus Mozart - Serenade No.5 in D major, KV.204⧸213a (1775) [DCFsDa7cr7w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Wolfgang Amadeus Mozart - Serenade No.5 in D major, KV.204⧸213a (1775) [DCFsDa7cr7w].mp4",
+            "size": 44.182936,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Wolfgang Amadeus Mozart - Serenade No.5 in D major, KV.204⧸213a (1775) [DCFsDa7cr7w].mp4?raw=true"
+        },
+        {
+            "id": "gcR29-PCzlo",
+            "name": "Tipitipitin [gcR29-PCzlo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Tipitipitin [gcR29-PCzlo].mp4",
+            "size": 3.756077,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Tipitipitin [gcR29-PCzlo].mp4?raw=true"
+        },
+        {
             "id": "dZkUkNq-eRU",
             "name": "Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4",
             "size": 4.774297,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Hungarian Coronation Mass, S.11 - 2. Gloria-dZkUkNq-eRU.mp4?raw=true"
+        },
+        {
+            "id": "xfh3tI0ZGeE",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 22 in F Major [xfh3tI0ZGeE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 22 in F Major [xfh3tI0ZGeE].mp4",
+            "size": 4.560188999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1, MS. 25 - No. 22 in F Major [xfh3tI0ZGeE].mp4?raw=true"
+        },
+        {
+            "id": "YQns6GuS6wY",
+            "name": "Mily Balakirev - Ouverture on a spanish march theme, Op.6 (1857) [YQns6GuS6wY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Mily Balakirev - Ouverture on a spanish march theme, Op.6 (1857) [YQns6GuS6wY].mp4",
+            "size": 19.080037,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mily Balakirev - Ouverture on a spanish march theme, Op.6 (1857) [YQns6GuS6wY].mp4?raw=true"
         },
         {
             "id": "OGWW-anKCqI",
@@ -58,11 +163,53 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Kling leise, mein Lied S.301-OGWW-anKCqI.mp4?raw=true"
         },
         {
+            "id": "RyjTQaGYeHc",
+            "name": "Liszt： Weinen, Klagen, Sorgen, Zagen - Variations on Bach's Cantata, S.179 [RyjTQaGYeHc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liszt： Weinen, Klagen, Sorgen, Zagen - Variations on Bach's Cantata, S.179 [RyjTQaGYeHc].mp4",
+            "size": 37.897597,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt： Weinen, Klagen, Sorgen, Zagen - Variations on Bach's Cantata, S.179 [RyjTQaGYeHc].mp4?raw=true"
+        },
+        {
             "id": "6OpnRuooGfw",
             "name": "La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4",
             "size": 10.441123,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/La Bionda. I Wanna Be Your Lover, 1981. Original.-6OpnRuooGfw.mp4?raw=true"
+        },
+        {
+            "id": "F_BgIq9v4Ok",
+            "name": "You Don't Need Someone New [F_BgIq9v4Ok].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/You Don't Need Someone New [F_BgIq9v4Ok].mp4",
+            "size": 9.129963,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/You Don't Need Someone New [F_BgIq9v4Ok].mp4?raw=true"
+        },
+        {
+            "id": "qX7SN1LEYK8",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - No. 23, Finale： c. Amanti costanti seguaci d'onor [qX7SN1LEYK8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 23, Finale： c. Amanti costanti seguaci d'onor [qX7SN1LEYK8].mp4",
+            "size": 3.783887,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 23, Finale： c. Amanti costanti seguaci d'onor [qX7SN1LEYK8].mp4?raw=true"
+        },
+        {
+            "id": "6ul56M5ql-A",
+            "name": "The Preludes [6ul56M5ql-A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/The Preludes [6ul56M5ql-A].mp4",
+            "size": 22.697473,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/The Preludes [6ul56M5ql-A].mp4?raw=true"
+        },
+        {
+            "id": "peh6JCBoznk",
+            "name": "the smiths - barbarism begins at home - TheTube [peh6JCBoznk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/the smiths - barbarism begins at home - TheTube [peh6JCBoznk].mp4",
+            "size": 33.717501,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/the smiths - barbarism begins at home - TheTube [peh6JCBoznk].mp4?raw=true"
+        },
+        {
+            "id": "XqT6ziO8DkM",
+            "name": "No. 12： Presto [XqT6ziO8DkM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/No. 12： Presto [XqT6ziO8DkM].mp4",
+            "size": 9.010318999999999,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/No. 12： Presto [XqT6ziO8DkM].mp4?raw=true"
         },
         {
             "id": "yfqz0twefHw",
@@ -72,11 +219,25 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Slap That Bass (From 'Shall We Dance')-yfqz0twefHw.mp4?raw=true"
         },
         {
+            "id": "GXrJVloID8k",
+            "name": "It's All over Now Baby Blue [GXrJVloID8k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/It's All over Now Baby Blue [GXrJVloID8k].mp4",
+            "size": 7.774983,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/It's All over Now Baby Blue [GXrJVloID8k].mp4?raw=true"
+        },
+        {
             "id": "LT-I48dxJwY",
             "name": "Hoping That Someday You'd Care-LT-I48dxJwY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Hoping That Someday You'd Care-LT-I48dxJwY.mp4",
             "size": 4.069763,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Hoping That Someday You'd Care-LT-I48dxJwY.mp4?raw=true"
+        },
+        {
+            "id": "MO7Cd_a30fQ",
+            "name": "ROSA LA CHINA. ERNESTO LECUONA. [MO7Cd_a30fQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/ROSA LA CHINA. ERNESTO LECUONA. [MO7Cd_a30fQ].mp4",
+            "size": 60.162971999999996,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/ROSA LA CHINA. ERNESTO LECUONA. [MO7Cd_a30fQ].mp4?raw=true"
         },
         {
             "id": "S-KKSLAEZ48",
@@ -86,11 +247,81 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt - Via Crucis - Station IV - Jesus begegnet seiner Heiligen Mutter-S-KKSLAEZ48.mp4?raw=true"
         },
         {
+            "id": "7Jp4aCyknBs",
+            "name": "Liszt： Im Rhein, im schönen Strome, S. 272 [7Jp4aCyknBs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Liszt： Im Rhein, im schönen Strome, S. 272 [7Jp4aCyknBs].mp4",
+            "size": 5.9537569999999995,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Liszt： Im Rhein, im schönen Strome, S. 272 [7Jp4aCyknBs].mp4?raw=true"
+        },
+        {
+            "id": "CYpDl-8vS1U",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - Recit. E decisa la lite [CYpDl-8vS1U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. E decisa la lite [CYpDl-8vS1U].mp4",
+            "size": 5.779833,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - Recit. E decisa la lite [CYpDl-8vS1U].mp4?raw=true"
+        },
+        {
+            "id": "lz8wjnRKHfU",
+            "name": "Gustav Holst： Symphony in F Major ＂The Cotswolds＂ (1900) [lz8wjnRKHfU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Gustav Holst： Symphony in F Major ＂The Cotswolds＂ (1900) [lz8wjnRKHfU].mp4",
+            "size": 25.322022999999998,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Gustav Holst： Symphony in F Major ＂The Cotswolds＂ (1900) [lz8wjnRKHfU].mp4?raw=true"
+        },
+        {
+            "id": "suvxVcdRlr8",
+            "name": "OMD - Secret 1985 [suvxVcdRlr8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/OMD - Secret 1985 [suvxVcdRlr8].mp4",
+            "size": 13.07791,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/OMD - Secret 1985 [suvxVcdRlr8].mp4?raw=true"
+        },
+        {
+            "id": "JEnt8N80uWo",
+            "name": "Vice Versa Love [JEnt8N80uWo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Vice Versa Love [JEnt8N80uWo].mp4",
+            "size": 8.208086,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Vice Versa Love [JEnt8N80uWo].mp4?raw=true"
+        },
+        {
+            "id": "iBaMxDN1sGc",
+            "name": "Twelve Waltzes and Coda： No. 1 [iBaMxDN1sGc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Twelve Waltzes and Coda： No. 1 [iBaMxDN1sGc].mp4",
+            "size": 1.5065499999999998,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Twelve Waltzes and Coda： No. 1 [iBaMxDN1sGc].mp4?raw=true"
+        },
+        {
             "id": "VDwzGt3b3BM",
             "name": "Bride and Groom-VDwzGt3b3BM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Bride and Groom-VDwzGt3b3BM.mp4",
             "size": 3.0778499999999998,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Bride and Groom-VDwzGt3b3BM.mp4?raw=true"
+        },
+        {
+            "id": "yHYpGL-gS8g",
+            "name": "Al Bowlly - THERE`S SOMETHING IN THE AIR - RAY NOBLE 1936 (EMACULATE AUDIO) [yHYpGL-gS8g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Al Bowlly - THERE`S SOMETHING IN THE AIR - RAY NOBLE 1936 (EMACULATE AUDIO) [yHYpGL-gS8g].mp4",
+            "size": 57.934315,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Al Bowlly - THERE`S SOMETHING IN THE AIR - RAY NOBLE 1936 (EMACULATE AUDIO) [yHYpGL-gS8g].mp4?raw=true"
+        },
+        {
+            "id": "3dLxy4jn_vI",
+            "name": "Ennio Morricone - (2002) La Misión [Suite Orquestal] [3dLxy4jn_vI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Ennio Morricone - (2002) La Misión [Suite Orquestal] [3dLxy4jn_vI].mp4",
+            "size": 31.747159999999997,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Ennio Morricone - (2002) La Misión [Suite Orquestal] [3dLxy4jn_vI].mp4?raw=true"
+        },
+        {
+            "id": "1nfnkx6FYJ8",
+            "name": "All Night Thing [1nfnkx6FYJ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/All Night Thing [1nfnkx6FYJ8].mp4",
+            "size": 12.519186,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/All Night Thing [1nfnkx6FYJ8].mp4?raw=true"
+        },
+        {
+            "id": "BvsfdKr3JyY",
+            "name": "I´ve Got You On My Mind [BvsfdKr3JyY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/I´ve Got You On My Mind [BvsfdKr3JyY].mp4",
+            "size": 4.0197899999999995,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/I´ve Got You On My Mind [BvsfdKr3JyY].mp4?raw=true"
         },
         {
             "id": "8DWJscv8u4c",
@@ -100,6 +331,34 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Sappho von Mitilene Suite, Op. 68 - VI. Marcia con moto-8DWJscv8u4c.mp4?raw=true"
         },
         {
+            "id": "bOlfjkI8XfM",
+            "name": "Ziggy Marley & The Melody Makers ＂Look Who's Dancing＂ (Official Video) [bOlfjkI8XfM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Ziggy Marley & The Melody Makers ＂Look Who's Dancing＂ (Official Video) [bOlfjkI8XfM].mp4",
+            "size": 47.932823,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Ziggy Marley & The Melody Makers ＂Look Who's Dancing＂ (Official Video) [bOlfjkI8XfM].mp4?raw=true"
+        },
+        {
+            "id": "FOMwVo7TNVs",
+            "name": "Friedrich Schwindl (1737-1786) - Concerto for Flute and Orchestra in D [FOMwVo7TNVs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Friedrich Schwindl (1737-1786) - Concerto for Flute and Orchestra in D [FOMwVo7TNVs].mp4",
+            "size": 37.946808,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Friedrich Schwindl (1737-1786) - Concerto for Flute and Orchestra in D [FOMwVo7TNVs].mp4?raw=true"
+        },
+        {
+            "id": "vhI1aCAUGZM",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cos'è questa commedia？ [vhI1aCAUGZM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cos'è questa commedia？ [vhI1aCAUGZM].mp4",
+            "size": 3.7401839999999997,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cos'è questa commedia？ [vhI1aCAUGZM].mp4?raw=true"
+        },
+        {
+            "id": "N_Y36TATo9s",
+            "name": "The Man I Love [N_Y36TATo9s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/The Man I Love [N_Y36TATo9s].mp4",
+            "size": 15.947204,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/The Man I Love [N_Y36TATo9s].mp4?raw=true"
+        },
+        {
             "id": "5ikF2UCjMKU",
             "name": "Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4",
@@ -107,11 +366,74 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Twelve Waltzes and Coda - No. 7-5ikF2UCjMKU.mp4?raw=true"
         },
         {
+            "id": "FjHJWSzAGkw",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act IV - No. 28a, Giunse alfin il momento [FjHJWSzAGkw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 28a, Giunse alfin il momento [FjHJWSzAGkw].mp4",
+            "size": 3.508895,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 28a, Giunse alfin il momento [FjHJWSzAGkw].mp4?raw=true"
+        },
+        {
+            "id": "lnSPDJgwgcU",
+            "name": "F.D.R. Jones [lnSPDJgwgcU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/F.D.R. Jones [lnSPDJgwgcU].mp4",
+            "size": 8.322556,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/F.D.R. Jones [lnSPDJgwgcU].mp4?raw=true"
+        },
+        {
+            "id": "7W1tRXL8zDE",
+            "name": "Max Bruch - Scottish Fantasy, Op. 46 (1880) [7W1tRXL8zDE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Max Bruch - Scottish Fantasy, Op. 46 (1880) [7W1tRXL8zDE].mp4",
+            "size": 58.465815,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Max Bruch - Scottish Fantasy, Op. 46 (1880) [7W1tRXL8zDE].mp4?raw=true"
+        },
+        {
+            "id": "bOhHAaC6B54",
+            "name": "Poolside & NEIL FRANCES – I'm In Love With You (Official Audio) [bOhHAaC6B54].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Poolside & NEIL FRANCES – I'm In Love With You (Official Audio) [bOhHAaC6B54].mp4",
+            "size": 27.62793,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Poolside & NEIL FRANCES – I'm In Love With You (Official Audio) [bOhHAaC6B54].mp4?raw=true"
+        },
+        {
+            "id": "rfMf8ZSeGMg",
+            "name": "Libertà (From ＂Il Mercenario - A Professional Gun ⧸ The Mercenary＂) [rfMf8ZSeGMg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Libertà (From ＂Il Mercenario - A Professional Gun ⧸ The Mercenary＂) [rfMf8ZSeGMg].mp4",
+            "size": 8.662599,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Libertà (From ＂Il Mercenario - A Professional Gun ⧸ The Mercenary＂) [rfMf8ZSeGMg].mp4?raw=true"
+        },
+        {
+            "id": "Mz4Xy0RAJUI",
+            "name": "Harnoncourt⧸Purcell - Fantasia In F Major 'Upon One Note' For Five Voices, Z 745 [Mz4Xy0RAJUI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Harnoncourt⧸Purcell - Fantasia In F Major 'Upon One Note' For Five Voices, Z 745 [Mz4Xy0RAJUI].mp4",
+            "size": 6.036968,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Harnoncourt⧸Purcell - Fantasia In F Major 'Upon One Note' For Five Voices, Z 745 [Mz4Xy0RAJUI].mp4?raw=true"
+        },
+        {
+            "id": "lBeiuhb36RY",
+            "name": "Yoshiko Sai - Mangekyou⧸佐井好子 - 萬花鏡 (1975) [lBeiuhb36RY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Yoshiko Sai - Mangekyou⧸佐井好子 - 萬花鏡 (1975) [lBeiuhb36RY].mp4",
+            "size": 80.96705,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Yoshiko Sai - Mangekyou⧸佐井好子 - 萬花鏡 (1975) [lBeiuhb36RY].mp4?raw=true"
+        },
+        {
             "id": "ZyVurQY8Ab0",
             "name": "The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
             "size": 13.210564,
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4?raw=true"
+        },
+        {
+            "id": "oVf5f7OJZS4",
+            "name": "17 and 21 (Reprise) [oVf5f7OJZS4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/17 and 21 (Reprise) [oVf5f7OJZS4].mp4",
+            "size": 3.9511399999999997,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/17 and 21 (Reprise) [oVf5f7OJZS4].mp4?raw=true"
+        },
+        {
+            "id": "fq2dWTBVZD4",
+            "name": "The Sugarcubes - Deus [fq2dWTBVZD4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/The Sugarcubes - Deus [fq2dWTBVZD4].mp4",
+            "size": 10.186981,
+            "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/The Sugarcubes - Deus [fq2dWTBVZD4].mp4?raw=true"
         },
         {
             "id": "SvHHaLAd6Zw",
@@ -128,5 +450,5 @@
             "url": "https://github.com/circuitalmynds/music_l3/blob/main/videos/Skiffle City Ramblers - Dr. Jazz-b2U0Wr6Si4M.mp4?raw=true"
         }
     ],
-    "total_size": 101.671176
+    "total_size": 945.9215499999999
 }
