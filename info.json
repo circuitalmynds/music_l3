@@ -450,6 +450,13 @@
             "url": "https://github.com/circuitalmynds/music_l3/raw/main/videos/Skiffle City Ramblers - Dr. Jazz [b2U0Wr6Si4M].mp4"
         },
         {
+            "id": "hIs5StN8J-0",
+            "name": "Animotion - Obsession (Official Music Video) [hIs5StN8J-0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l3/videos/Animotion - Obsession (Official Music Video) [hIs5StN8J-0].mp4",
+            "size": 20.581447999999998,
+            "url": "https://github.com/circuitalmynds/music_l3/raw/main/videos/Animotion - Obsession (Official Music Video) [hIs5StN8J-0].mp4"
+        },
+        {
             "id": "ZyVurQY8Ab0",
             "name": "The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l3/videos/The Sheik of Araby (Live)-ZyVurQY8Ab0.mp4",
@@ -471,5 +478,5 @@
             "url": "https://github.com/circuitalmynds/music_l3/raw/main/videos/Liszt, Wagner - Spinning Song From Der fliegende Holl\u00e4nder, S.440-SvHHaLAd6Zw.mp4"
         }
     ],
-    "total_size": 926.4247419999999
+    "total_size": 947.00619
 }
